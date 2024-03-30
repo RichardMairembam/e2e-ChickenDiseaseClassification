@@ -1,0 +1,22 @@
+tensorflow
+pandas
+dvc # MLOps tool
+notebook
+numpy
+matplotlib
+seaborn
+python-box==6.0.2
+pyYAML #to read yaml file
+tqdm #see progress bar
+ensure==1.0.2
+joblib 
+types-pyYAML
+scipy
+Flask
+Flask-Cors
+-e . # for setup.py -> will help to install the src folder as local package, for which we will write the code in setup.py
+
+
+
+
+

@@ -22,7 +22,8 @@ list_of_files = [
     "params.yaml",
     "requirements.txt",
     "setup.py",
-    "research/trials.ipynb" # Perform notebook experiment before actual implementaion
+    "research/trials.ipynb", # Perform notebook experiment before actual implementaion
+    "templates/index.html"
 ]
 
 for filepath in list_of_files:
