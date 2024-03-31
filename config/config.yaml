@@ -1,0 +1,19 @@
+artifacts_root: artifacts # Will create a folder artifacts inside which we will be creating data_ingestion folder and then download data from url
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://github.com/RichardMairembam/DataRepo/raw/main/Chicken-fecal-images.zip
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
+
+
+
+
+
+
+
+
+
+
+
+
